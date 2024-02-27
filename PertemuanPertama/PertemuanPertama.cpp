@@ -21,6 +21,8 @@ int main()
     //display 'luasnya ='
     cout << "luas = "; cout << luas;
     //end
+    cout << "dengan tinggi =" << tinggi;
+    cout << "dengan alas =" << alas;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
